@@ -1,8 +1,8 @@
-# The basis for the assemblies of Minecraft
+# Основа для сборок Майнкрафт
 
-This is a small collection of mods aimed at optimizing the game, and its further addition of mods
+Это небольшая коллекция модов, направленная на оптимизацию игры, и ее дальнейшее дополнение модами
 
-| Mod                     | Version |
+| Мод                     | Версия |
 |-------------------------|--------|
 | DashLoader              | 4.0.0  |
 | Debugify                | 2.3.2  |
@@ -29,11 +29,11 @@ This is a small collection of mods aimed at optimizing the game, and its further
 
 <hr>
 
-# Основа для сборок Майнкрафт
+# The basis for the assemblies of Minecraft
 
-Это небольшая коллекция модов, направленная на оптимизацию игры, и ее дальнейшее дополнение модами
+This is a small collection of mods aimed at optimizing the game, and its further addition of mods
 
-| Мод                     | Версия |
+| Mod                     | Version |
 |-------------------------|--------|
 | DashLoader              | 4.0.0  |
 | Debugify                | 2.3.2  |
