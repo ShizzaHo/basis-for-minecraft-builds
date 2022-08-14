@@ -1,0 +1,5 @@
+"emi-0.3.11.19.jar" конфликтует с "jei-1_19-fabric-11_0_0_206.jar", ставьте только 1 мод
+
+---
+
+"emi-0.3.11.19.jar" conflicts with "jei-1_19-fabric-11_0_0_206.jar", only put 1 mod
